@@ -5,6 +5,23 @@
 # Session Data files
 .RData
 .RDataTmp
+.xlsl
+.pdf
+.png
+.rds
+.RDS
+.docx
+.jpg
+.json
+
+# created folders
+tmp_out
+inputs
+outputs
+figs
+
+# local config makefile
+local.makefile
 
 # User-specific files
 .Ruserdata
