@@ -1,6 +1,6 @@
 # kzn-hiv-model
 
-## Getting started
+## Getting started: How to run
 
 ## How to run
 ### Windows 10
